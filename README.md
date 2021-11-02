@@ -1,7 +1,7 @@
 ## Olá eu sou o João Negreiros, sou desenvolvedor web e entusiasta da tecnologia 
 
 
-<div align="center; display: inline_block">
+<div align="center; display: flex; flex-direction: row;">
   <a href="https://github.com/JoaoNegreiros48">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoNegreiros48&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoNegreiros48&layout=compact&langs_count=7&theme=dracula"/>
