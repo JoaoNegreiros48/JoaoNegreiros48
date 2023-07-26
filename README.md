@@ -14,7 +14,7 @@
   
   ##
 
-![Snake animation](https://github.com/Ajada/Ajada/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/JoaoNegreiros48/JoaoNegreiros48/blob/output/github-contribution-grid-snake.svg)
  
   ##
 
